@@ -8,6 +8,6 @@ metadata:
   annotations:
     'backstage.io/kubernetes-id': dice-roller
 spec:
-  # type: service
-  # lifecycle: production
-  # owner: user:guest
+  type: service
+  lifecycle: production
+  owner: user:guest
